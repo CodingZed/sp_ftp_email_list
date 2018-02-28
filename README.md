@@ -1,7 +1,7 @@
 # sp_ftp_email_list
 Connect to data warehouse, create historical data stored procedure, Manipulate data and save the file in ftp location, Set up the email list in MS azure
 
-<bold>Issue</bold>
+Issue
 In Prisma, we don't have histroical data. Everyday, the new data will hover over the old one. We need a system to help us store historical data. Meanwhile, we will create a file and deliver to the right member in the team to check the input from Prisma.
 
 Solution
